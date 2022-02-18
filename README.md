@@ -1,9 +1,26 @@
-# I switched to Gitlab!
+# Ethernia
+## About Me
+jk noone cares about me :)
 
-**There is only the empty `/bootstick/` Repo online to notify someone who shared it!**
+    Repositories     - https://gitlab.com/ethernia
+    Social & Contact - bit.ly/ethernia75
+    I'm also on Github!
+    github.com/ethernia-root
 
-https://gitlab.com/ethernia
+## List of every Repo and what it does:
 
-[Current Time: Sep. 17]
-I currently use Gitlab for free on SaaS, I will soon switch to Self Hosting and all Files won't be `.zip` Files, but for some Reason you cant upload a Folder directly on Gitlab web and Kraken doesnt work.
-Don't help me with that, I'll switch to self hosting anyways and I can just put the Files up there directly!
+- ethernia/ethernia:
+    Repository with Information about these Repositories and other Stuff
+- ethernia/pfp:
+    Every Profile Picture of mine
+- ethernia/installers:
+    Installers to automatically Install anything
+- ethernia/configs:
+    Configuration Files to get Set up even faster
+- ethernia/nikostools:
+    Discord Bot
+- ethernia/bootstick:
+    List of Boot-ISOs that I put on my 64gb Ventoy Drive
+- ethernia/world-of-war:
+    Strategy Game Rules. You can make it into any kind of Game, a Videogame, a Boardgame, etc.
+    (Original Files are German, there is an official english translation branch!)
