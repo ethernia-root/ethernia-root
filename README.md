@@ -24,3 +24,8 @@ jk noone cares about me :)
 - ethernia/world-of-war:
     Strategy Game Rules. You can make it into any kind of Game, a Videogame, a Boardgame, etc.
     (Original Files are German, there is an official english translation branch!)
+
+- ethernia-root/ethernia-root:
+    ethernia/ethernia but for Github
+- ethernia-root/ethernia-root.github.io:
+    Website Source
