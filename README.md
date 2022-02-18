@@ -2,10 +2,7 @@
 ## About Me
 jk noone cares about me :)
 
-    Repositories     - https://gitlab.com/ethernia
-    Social & Contact - bit.ly/ethernia75
-    I'm also on Github!
-    github.com/ethernia-root
+    ethernia-root.github.io
 
 ## List of every Repo and what it does:
 
