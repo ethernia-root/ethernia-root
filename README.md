@@ -16,6 +16,8 @@ jk noone cares about me :)
     Configuration Files to get Set up even faster
 - ethernia/nikostools:
     Discord Bot
+- ethernia/etherniapc:
+    Almost Shell for your PC
 - ethernia/bootstick:
     List of Boot-ISOs that I put on my 64gb Ventoy Drive
 - ethernia/world-of-war:
